@@ -1,0 +1,14 @@
+/Users/firma/projects/csharpGame/Game/bin/Debug/net7.0/Game
+/Users/firma/projects/csharpGame/Game/bin/Debug/net7.0/Game.deps.json
+/Users/firma/projects/csharpGame/Game/bin/Debug/net7.0/Game.runtimeconfig.json
+/Users/firma/projects/csharpGame/Game/bin/Debug/net7.0/Game.dll
+/Users/firma/projects/csharpGame/Game/bin/Debug/net7.0/Game.pdb
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.AssemblyInfoInputs.cache
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.AssemblyInfo.cs
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.csproj.CoreCompileInputs.cache
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.dll
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/refint/Game.dll
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.pdb
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/Game.genruntimeconfig.cache
+/Users/firma/projects/csharpGame/Game/obj/Debug/net7.0/ref/Game.dll
